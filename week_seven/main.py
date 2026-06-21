@@ -159,5 +159,5 @@ if __name__ == '__main__':
     logger.info("Titanic flask api Starting")
 
     app.run(
-        debug = True
+        debug = False
     )
